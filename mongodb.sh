@@ -55,8 +55,6 @@ systemctl restart mongod
 VALIDATE $? "restarting MongoDB"
 
 
-
-
  
 
  
